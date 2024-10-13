@@ -1,4 +1,3 @@
 name: Nick Carter's Personal Website
 description: A simple website for CIS 641
 markdown: kramdown
-remote_theme: jekyll-theme-hacker
