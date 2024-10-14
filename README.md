@@ -7,3 +7,5 @@ Click the link above to acces my website. This website includes the following (c
 - CIS 641 Semester Project Info Page
 - LinkedIn Link
 - CIS 641 Semester Project Page Link
+
+This website is currently completed for CIS 641 HW3
